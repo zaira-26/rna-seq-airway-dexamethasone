@@ -1,4 +1,3 @@
-# rna-seq-airway-dexamethasone
 # RNA-seq Differential Expression Analysis: Dexamethasone Treatment in Airway Smooth Muscle Cells
 
 ## Overview
